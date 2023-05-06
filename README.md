@@ -13,7 +13,6 @@
   <code><img height="80" alt="fabric" src="https://avatars.githubusercontent.com/u/24580162?s=200&v=4"></code> 
   <code><img  width="80" alt="skulpt" src="https://github.com/skulpt/skulpt/blob/gh-pages/img/logo.png?raw=true"></code>
   
-  https://avatars.githubusercontent.com/u/24580162?s=200&v=4
 
 
 ### :tada: Statistics
