@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Topppy/Topppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Netease, Senior Front-end Development Engineer.
+- 🌱 I’m currently learning WebGL、[Games104](https://space.bilibili.com/512313464/channel/collectiondetail?sid=292637)
+- 💼 Proficient in IDE for online education game programming(scratch\blockly\python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="50" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="50" alt="electron" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></code>
+  <code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  <code><img height="50" alt="scratch" src="https://avatars.githubusercontent.com/u/103071332?s=200&v=4"></code><code><img height="50" alt="scratch" src="https://github.com/skulpt/skulpt/blob/gh-pages/img/logo.png?raw=true"></code> 
+
+
+### Statistics
+
+| <a href="https://github.com/Topppy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Topppy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Topppy's github stats" /></a> | <a href="https://github.com/Topppy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topppy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### 📝 Blog
+
+> 2018~
+<a href="https://github.com/Topppy/hexo-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topppy&repo=hexo-blog&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+> 2016~2018
+<a href="https://github.com/Topppy/topppy.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Topppy&repo=topppy.github.io&theme=buefy" />
+</a>
